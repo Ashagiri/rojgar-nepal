@@ -1,4 +1,4 @@
-# Rozgar Nepal 🇳🇵
+# Rojgar Nepal 🇳🇵
 
 An open-source initiative to bridge the gap between job seekers and employers in Nepal.
 
