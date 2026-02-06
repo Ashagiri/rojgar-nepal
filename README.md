@@ -7,6 +7,7 @@ An open-source initiative to bridge the gap between job seekers and employers in
 - Localized job searching
   
 - Career resource dashboard
+  
 - Easy application tracking
 
 ## 🛠️ Tech Stack
