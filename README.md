@@ -11,4 +11,5 @@ An open-source initiative to bridge the gap between job seekers and employers in
 - **Frontend:** [e.g., React/Next.js]
  
 - **Backend:** [e.g., Node.js/Python]
+  
 - **Database:** [e.g., PostgreSQL/MongoDB]
