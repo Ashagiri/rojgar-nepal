@@ -11,6 +11,7 @@
 * **Smart Job Search:** Filter jobs based on skills, location, and industry.
   
 * **Employer Dashboard:** Robust tools for posting jobs and managing applications.
+  
 * **Scalable Backend:** Built with **Django** for high security and performance.
   
 ---
